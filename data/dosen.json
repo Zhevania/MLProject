@@ -1,0 +1,52 @@
+{
+  "Dosen A": {
+    "nama": "Dosen A",
+    "status": "Istirahat",
+    "ruangan": "",
+    "jam_mulai": "08:00",
+    "jam_selesai": "15:00",
+    "catatan": "",
+    "antrean_dibuka": true,
+    "tanggal": "2026-11-23"
+  },
+  "Dosen B": {
+    "nama": "Dosen B",
+    "status": "Hadir",
+    "ruangan": "",
+    "jam_mulai": "08:00",
+    "jam_selesai": "15:00",
+    "catatan": "",
+    "antrean_dibuka": true,
+    "tanggal": "2026-11-23"
+  },
+  "Dosen C": {
+    "nama": "Dosen C",
+    "status": "Hadir",
+    "ruangan": "",
+    "jam_mulai": "08:00",
+    "jam_selesai": "15:00",
+    "catatan": "",
+    "antrean_dibuka": true,
+    "tanggal": "2026-11-23"
+  },
+  "Dosen D": {
+    "nama": "Dosen D",
+    "status": "Hadir",
+    "ruangan": "",
+    "jam_mulai": "08:00",
+    "jam_selesai": "15:00",
+    "catatan": "",
+    "antrean_dibuka": true,
+    "tanggal": "2026-11-23"
+  },
+  "Dosen E": {
+    "nama": "Dosen E",
+    "status": "Hadir",
+    "ruangan": "",
+    "jam_mulai": "08:00",
+    "jam_selesai": "15:00",
+    "catatan": "",
+    "antrean_dibuka": true,
+    "tanggal": "2026-11-23"
+  }
+}

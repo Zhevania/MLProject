@@ -1,0 +1,16 @@
+{
+  "shevaniamandang@gmail.com": {
+    "nama": "zhevania mandang",
+    "nim": "105022210127",
+    "jurusan": "Informatika",
+    "salt": "b995ae10cafb334dc4d1c420b9bc85bb",
+    "hash": "34601261cf7ec4abc4da0c0c493279b06f90b0405723c845743f29cae5bee7ff"
+  },
+  "admin@antrein.id": {
+    "nama": "admin",
+    "nim": "0000",
+    "jurusan": "-",
+    "salt": "b03305cfb4916918e599611ceb87c3db",
+    "hash": "8d71721eb15b269454a519b2d589cb5bbd07998839cefd7575fc7bfb861f0e2f"
+  }
+}
